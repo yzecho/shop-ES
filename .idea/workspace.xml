@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a6c0dc-3632-4cb8-94f6-6a21e6ab1c46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGO28JF11iL8NzUZTwnFmj5JVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/js" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootElasticsearchApplication">
+    <configuration name="HtmlParseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.yzecho.springbootelasticsearch.utils.HtmlParseUtil" />
+      <module name="springboot-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.yzecho.springbootelasticsearch.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpParseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.yzecho.springbootelasticsearch.utils.HttpParseUtil" />
+      <module name="springboot-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.yzecho.springbootelasticsearch.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootElasticsearchApplicationTests.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.yzecho.springbootelasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.yzecho.springbootelasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="io.yzecho.springbootelasticsearch.SpringbootElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootElasticsearchApplicationTests.testIsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.yzecho.springbootelasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.yzecho.springbootelasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="io.yzecho.springbootelasticsearch.SpringbootElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="testIsExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.yzecho.springbootelasticsearch.SpringbootElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootElasticsearchApplicationTests.testCreateIndex" />
+        <item itemvalue="Application.HtmlParseUtil" />
+        <item itemvalue="Application.HttpParseUtil" />
+        <item itemvalue="JUnit.SpringbootElasticsearchApplicationTests.testIsExist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a6c0dc-3632-4cb8-94f6-6a21e6ab1c46" name="Default Changelist" comment="" />
+      <created>1586358253584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586358253584</updated>
+      <workItem from="1586358261196" duration="23110000" />
+      <workItem from="1586502527655" duration="1014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1586437743238">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1440.810@0.0.1440.810" timestamp="1586437743238" />
+    <state width="1398" height="155" key="GridCell.Tab.0.bottom" timestamp="1586438395779">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.0.1440.810@0.0.1440.810" timestamp="1586438395779" />
+    <state width="1398" height="155" key="GridCell.Tab.0.center" timestamp="1586438395777">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.0.center/0.0.1440.810@0.0.1440.810" timestamp="1586438395777" />
+    <state width="1398" height="155" key="GridCell.Tab.0.left" timestamp="1586438395776">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.0.left/0.0.1440.810@0.0.1440.810" timestamp="1586438395776" />
+    <state width="1398" height="155" key="GridCell.Tab.0.right" timestamp="1586438395778">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.0.right/0.0.1440.810@0.0.1440.810" timestamp="1586438395778" />
+    <state width="1398" height="155" key="GridCell.Tab.1.bottom" timestamp="1586438395782">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.1.bottom/0.0.1440.810@0.0.1440.810" timestamp="1586438395782" />
+    <state width="1398" height="155" key="GridCell.Tab.1.center" timestamp="1586438395780">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.1.center/0.0.1440.810@0.0.1440.810" timestamp="1586438395780" />
+    <state width="1398" height="155" key="GridCell.Tab.1.left" timestamp="1586438395779">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.1.left/0.0.1440.810@0.0.1440.810" timestamp="1586438395779" />
+    <state width="1398" height="155" key="GridCell.Tab.1.right" timestamp="1586438395781">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1398" height="155" key="GridCell.Tab.1.right/0.0.1440.810@0.0.1440.810" timestamp="1586438395781" />
+  </component>
+</project>
